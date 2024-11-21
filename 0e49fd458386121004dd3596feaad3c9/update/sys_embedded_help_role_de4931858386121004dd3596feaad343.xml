@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>10</order>
+        <role display_value="x_1506630_passwo_0.admin" name="x_1506630_passwo_0.admin">9a4931858386121004dd3596feaad341</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-21 22:08:14</sys_created_on>
+        <sys_id>de4931858386121004dd3596feaad343</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>9a4931858386121004dd3596feaad341</sys_name>
+        <sys_package display_value="Password Changer" source="x_1506630_passwo_0">0e49fd458386121004dd3596feaad3c9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Password Changer">0e49fd458386121004dd3596feaad3c9</sys_scope>
+        <sys_update_name>sys_embedded_help_role_de4931858386121004dd3596feaad343</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-21 22:08:14</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

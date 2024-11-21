@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="DB2 Password Change">724a75c58386121004dd3596feaad380</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-21 22:24:21</sys_created_on>
+        <sys_id>1efcf1c98386121004dd3596feaad38a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.DB2 Password Change</sys_name>
+        <sys_package display_value="Password Changer" source="x_1506630_passwo_0">0e49fd458386121004dd3596feaad3c9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Password Changer">0e49fd458386121004dd3596feaad3c9</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_1efcf1c98386121004dd3596feaad38a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-21 22:24:21</sys_updated_on>
+    </sc_cat_item_catalog>
+</record_update>

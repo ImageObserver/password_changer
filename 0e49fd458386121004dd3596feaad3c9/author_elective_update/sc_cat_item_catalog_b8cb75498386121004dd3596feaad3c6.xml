@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="DB2 Password Change">724a75c58386121004dd3596feaad380</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-21 22:19:04</sys_created_on>
+        <sys_id>b8cb75498386121004dd3596feaad3c6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.DB2 Password Change</sys_name>
+        <sys_package display_value="Password Changer" source="x_1506630_passwo_0">0e49fd458386121004dd3596feaad3c9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Password Changer">0e49fd458386121004dd3596feaad3c9</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_b8cb75498386121004dd3596feaad3c6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-21 22:19:04</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Password Changer">0e49fd458386121004dd3596feaad3c9</application>
+        <file_path/>
+        <instance_id>10cf4f5e1b0e021839a54089bd4bcbf8</instance_id>
+        <instance_name>dev267413</instance_name>
+        <name>sc_cat_item_catalog_b8cb75498386121004dd3596feaad3c6</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="DB2 Password Change">724a75c58386121004dd3596feaad380</sc_cat_item><sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-11-21 22:19:04</sys_created_on><sys_id>b8cb75498386121004dd3596feaad3c6</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Service Catalog.DB2 Password Change</sys_name><sys_package display_value="Password Changer" source="x_1506630_passwo_0">0e49fd458386121004dd3596feaad3c9</sys_package><sys_policy/><sys_scope display_value="Password Changer">0e49fd458386121004dd3596feaad3c9</sys_scope><sys_update_name>sc_cat_item_catalog_b8cb75498386121004dd3596feaad3c6</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-11-21 22:19:04</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>2055091131</payload_hash>
+        <record_name>Service Catalog.DB2 Password Change</record_name>
+        <reverted_from/>
+        <source>0e4931858386121004dd3596feaad33b</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-21 22:19:04</sys_created_on>
+        <sys_id>fccb75498386121004dd3596feaad3c9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19350ceb56c0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-21 22:19:04</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>30cb7549e7861210df7f7392639068c9</update_guid>
+        <update_guid_history>30cb7549e7861210df7f7392639068c9:2055091131</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Service Catalog.DB2 Password Change">9c0cf9498386121004dd3596feaad34f</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-21 22:20:07</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>2f581ab4f6a744608dece235894bfc40</sys_id>
+        <sys_metadata>b8cb75498386121004dd3596feaad3c6</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.DB2 Password Change</sys_name>
+        <sys_package display_value="Password Changer" source="x_1506630_passwo_0">0e49fd458386121004dd3596feaad3c9</sys_package>
+        <sys_parent display_value="DB2 Password Change">724a75c58386121004dd3596feaad380</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Password Changer">0e49fd458386121004dd3596feaad3c9</sys_scope>
+        <sys_scope_delete display_value="">088e8b709f3d4e628085f5c66b4d5424</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_b8cb75498386121004dd3596feaad3c6</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_b8cb75498386121004dd3596feaad3c6">fccb75498386121004dd3596feaad3c9</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-21 22:20:07</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
