@@ -4,7 +4,7 @@
         <acls/>
         <active>false</active>
         <annotation/>
-        <attributes>browserActivatedIn=chrome,integrationActivatedIn=integrated,labelCacheCleanUpExecuted=true,viewActivatedIn=naturalLanguage</attributes>
+        <attributes>browserActivatedIn=chrome,integrationActivatedIn=standalone,labelCacheCleanUpExecuted=true,viewActivatedIn=naturalLanguage</attributes>
         <authored_on_release_version>26000</authored_on_release_version>
         <callable_by_client_api>false</callable_by_client_api>
         <category/>
@@ -38,7 +38,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>4ce93d858386121004dd3596feaad36b</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>Password Changer</sys_name>
         <sys_overrides/>
         <sys_package display_value="Password Changer" source="x_1506630_passwo_0">0e49fd458386121004dd3596feaad3c9</sys_package>
@@ -46,7 +46,7 @@
         <sys_scope display_value="Password Changer">0e49fd458386121004dd3596feaad3c9</sys_scope>
         <sys_update_name>sys_hub_flow_4ce93d858386121004dd3596feaad36b</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-11-21 22:52:27</sys_updated_on>
+        <sys_updated_on>2024-12-10 16:08:14</sys_updated_on>
         <type>flow</type>
         <version>2</version>
     </sys_hub_flow>
@@ -214,14 +214,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-11-21 22:52:27</sys_created_on>
         <sys_id>796346c183c6121004dd3596feaad313</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name/>
         <sys_package/>
         <sys_policy/>
         <sys_scope display_value="Password Changer">0e49fd458386121004dd3596feaad3c9</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-11-21 22:52:27</sys_updated_on>
+        <sys_updated_on>2024-12-10 16:08:13</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
@@ -247,16 +247,38 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-11-21 22:52:27</sys_created_on>
         <sys_id>826346c183c6121004dd3596feaad31b</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_scope/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-11-21 22:52:27</sys_updated_on>
+        <sys_updated_on>2024-12-10 16:08:13</sys_updated_on>
         <trigger_definition display_value="Service Catalog">c43a1011c36813002841b63b12d3ae15</trigger_definition>
-        <trigger_inputs>H4sIAAAAAAAA/81U32vbMBD+V4yeNkjASdZm8dsoBAJdO5ptL6EYWTo7YrLkSbJbL+R/38k/Eqc1ZbCXvlmnT/d9d/eddwciaQKSROShVMFa6qdgo8iECOXAKCq/1wXgJdtrwQDj7cetsI5EuwNJf1JZegBepbddpuk0uNMKgunURzc5zXrEFiQwB5xEKZUWMPLDDk9fhbVCZV3gOBkQJJT9yowuFR9SedGpFy1UcEYEHziktJTu40sB36ihOWBplkQHovAbL2xtY58kNsC04bEzIsvAIJ5DAYqDcnHlZeCjHSGPx/+rJNUG3q7kEvEe9D9OSE4Vp06b+gRCLmSJZmE4IU3+bW03vFXaSTOlaqUJb6pqbJZFX5KviO2F5AYUCkVKh+aLe3/e9BYUnuI6XIVsOV8tl/NwsQjD9CpJWcrY8vMsvJ5drRA3buxRYe6Fy4eVwbPzPTz35nUjDFB+r+Q5sMf1afuQ02cr/mDyT6HHpYDFsW6aLZ1tFkn+u6FHu9gr9k4by3VhqWrMiV2GuZ91x3bzbgW2rbsvnNDoFbLwM6SJfHsbmJZlru7GDNCpH/zNSgvxaX3Oe7Hd66eHfoxroRpJ3aXUjMrTiTpkTkoHzapSXlF84a3rDHIcGzfEv0v/glysalORB3BhC0nrtQDZbZVlRhTuC3OigtNq/gW/N0OLxAUAAA==</trigger_inputs>
+        <trigger_inputs>H4sIAAAAAAAA/81UUWvbMBD+K0ZPKyTgJGuz+G0UAoGuHc22l1CMLJ0cMVnyJNltFvLfd7KdxOlMGeylb9bd6b7v033nzZ4omoEiCXmsdLRU5jlaaTIiUnuwmqpvuxIwybZGMsB4+3EnnSfJZk/ED6qqUIApcdd1Go+je6MhGo9DdFXQ/FixBgXMAyeJoMoBRr67/umLdE7qvAscRj2AjLKfuTWV5n2oQFoE0lJH54roAwdBK+WvXhP4Si0tAKU5kuyJxm9MuJ1LQ5PUAjOWp97KPAeL9RxK0By0T+tAAy9tCHk6/J8SYSy8reSy4j3wfxqRgmpOvbG7UxFiIUoyieMRafqvd27FW6YdNVvplpoMpqqHZlkeJQVFbCsVt6CRKELK0OwmXsRsPl3M59N4NotjcZ0JJhibf5rEN5PrBbYYtvAgBf/Kz30N8OLDa51f4W/JFih/0Ooc2OKitIoL+uLkb2z+MQ51AlAG6+bWwrlmZdS/W3fwvY6Mg6eGel2Ypx7yXNdhGqbaod2+W4Lt0z2UXhp0BZmFGdJMve17ZlRV6PshA3Tse/+tykF6WpTzBqy35vnxOMal1A2lLqkMo+p0oh6Rs8pDs5SU1xRvBOt6ixiHxg3pryrcIBdL2SgKBVy6UtHdUoLq9scxK0v/mXlZw2kJ/wA2nWLgrgUAAA==</trigger_inputs>
         <trigger_outputs/>
         <trigger_type>service_catalog</trigger_type>
     </sys_hub_trigger_instance_v2>
-    <sys_hub_action_instance_v2 action="delete_multiple" query="flow=4ce93d858386121004dd3596feaad36b"/>
+    <sys_hub_action_instance_v2 action="delete_multiple" query="flow=4ce93d858386121004dd3596feaad36b^sys_idNOT IN0e1dda8bc3121210b2ae5242b401312a"/>
+    <sys_hub_action_instance_v2 action="INSERT_OR_UPDATE">
+        <action_type display_value="Outbound call">2e3c964bc3121210b2ae5242b4013110</action_type>
+        <action_type_parent display_value="Outbound call">a197d683c3121210b2ae5242b401313e</action_type_parent>
+        <attributes/>
+        <comment/>
+        <compiled_snapshot/>
+        <display_text/>
+        <flow display_value="Password Changer">4ce93d858386121004dd3596feaad36b</flow>
+        <generation_source/>
+        <order>1</order>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_action_instance_v2</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-10 16:08:14</sys_created_on>
+        <sys_id>0e1dda8bc3121210b2ae5242b401312a</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_scope display_value="Password Changer">0e49fd458386121004dd3596feaad3c9</sys_scope>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-10 16:08:14</sys_updated_on>
+        <ui_id>e77aee4b-a55e-40e3-b375-60f5c62e982d</ui_id>
+        <values>H4sIAAAAAAAA/+2SW2vbQBCF/0rYZ8nospEtvxVCINDG0DR5CUGMdkfxwmqlrFZ23JD/3llbvmCcEgpt+hAMwprdmTnn6Lt/YUqyKYMkFXnGS5HGCf2iMgE8T3hS8ihO45izgBmokW72HdqCegK2AN37Cv2Vqms1rO72FTFXWlo0bHr/ELAWLHU7tGz6cnTkVi0WGkrU1HjjrDKP1P5eUdvGW1J1dnVxSqZfQIVuO7qx0uuIA4bPDo1EWlWB7jBgNRgJrrErNnW2p4JFkDOjV7sbc2XcxmANz536SZMn/lqFZEjsvDdK4Kx1qjGbioNSbw8b3dfmeqPSR4cV9NodREfSC4mtl+aXDZurm3mz/L5ddKnM2sVwqBsBevcGjryWvcPOx92rH5TA1+OEUWNN84sa2pYqRWubhVrPJIn16FHTy6jSzZK0dOrRjEB4PyMKCEaXVL9Yl+/AKm/uG42h5mBYdxh4r26Neurxyn/T81jyio/zkIsoC/k4E2GOSRJmWZxXUmAajRP2uo60eOq9qU1IQxzFJlG60AmrWveFRC1wcP4aDDQn+FtwJntMGi2LFrpuSVT8C6TfoWzbONPy7EDaacFvwJ18wv0RcOcSRSVzHkZ8UoU8HkOYZ6mkh5gIGUuIkP9tuMWeFYPL/wlucQD3NS5PwH0k+A2400+4PwJuKUUZpXFJcKc85IgpcZ1nYZZOeF6OIRdS/DHcD78AwkmDSokIAAA=</values>
+    </sys_hub_action_instance_v2>
     <sys_hub_sub_flow_instance_v2 action="delete_multiple" query="flow=4ce93d858386121004dd3596feaad36b"/>
     <sys_hub_flow_logic_instance_v2 action="delete_multiple" query="flow=4ce93d858386121004dd3596feaad36b"/>
     <sys_hub_pill_compound action="delete_multiple" query="attached_to=4ce93d858386121004dd3596feaad36b"/>
